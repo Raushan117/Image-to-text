@@ -15,7 +15,7 @@ docx2txt==0.8
 EbookLib==0.17.1
 entrypoints==0.3
 extract-msg==0.23.1
-Flask==1.1.1
+Flask==2.3.2
 Flask-Cors==3.0.8
 google-api-core==1.14.3
 google-auth==1.6.3
